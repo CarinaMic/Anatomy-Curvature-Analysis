@@ -1,4 +1,4 @@
-#Anatomy Curvature Analysis
+# Anatomy Curvature Analysis
 
 ## Overview
 This MATLAB project calculates and visualises three types of curvature (normal, mean and Gaussian) on triangulated STL surfaces (e.g. the pelvis). Although it was developed for orthopaedic research, it can be applied to other anatomical structures. As well as pure curvature analysis, the project generates colour-coded STL models, marks areas of high curvature, and provides figures that can be used to validate defect areas (e.g. distances from defect boundaries to regions of high curvature).
